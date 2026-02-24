@@ -42,7 +42,7 @@ https://student-dashboard-o6vn.onrender.com/students/count
 
 ## 📬 Postman Collection Link
 
-https://aman-kr-cg-9007498.postman.co/workspace/Aman-Kumar's-Workspace~5c550cfb-2c44-4847-820f-e36aaffcfa07/collection/50839281-b35cc71d-7428-4284-9baa-97bcd8985721?action=share&creator=50839281
+https://documenter.getpostman.com/view/50839281/2sBXcGCz69
 
 ---
 
